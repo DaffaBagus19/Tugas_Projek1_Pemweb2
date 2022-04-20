@@ -57,7 +57,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="TugasPraktikum03/index.html" class="nav-link">
+                <a href="TugasPraktikum05/index.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Tugas Praktikum 03</p>
                 </a>
