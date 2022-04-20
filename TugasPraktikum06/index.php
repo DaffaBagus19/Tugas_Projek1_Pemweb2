@@ -123,7 +123,6 @@ $array[] = $pasien4;
 							</form>
         </form>
         <br>
-    <table border=1 callpadding=15 cellpadding=0>
 	<div class="card-body table-responsive">
 	<table class="table table-stripe">
 	<thead class="thead-dark">
@@ -138,6 +137,7 @@ $array[] = $pasien4;
             <th>Nilai BMI</th>
             <th>Status BMI</th>
         </tr>
+	</thead>
         <?php foreach($array as $a) : ?>
         <tr>
             <td><?php echo $a->pasien->id; ?></td>
